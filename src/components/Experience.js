@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import companyLogo1 from '../assets/img/AD.jpeg';
 import companyLogo2 from '../assets/img/MCR_logo.jpeg';
 import companyLogo4 from '../assets/img/TTULogo.png';
-import companyLogo3 from '../assets/img/furfriends.png'
+import companyLogo3 from '../assets/img/furfriends.svg'
 export const Experience = () => {
   return (
     <section className="experience" id="experience">
