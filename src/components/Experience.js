@@ -18,7 +18,7 @@ export const Experience = () => {
               <p className="experience-dates"> 2024  -  Present</p>
               <ul className="experience-details">
                 <li className="experience-detail"> Developed user interfaces for responsive web apps using Angular, HTML5, CSS3, JavaScript ensuring cross-browser compatibility. </li>
-                <li className="experience-detail"> Designed and implemented RESTful APIs in C#/.NET Core for seamless communication between frontend and backend systems. </li>
+                <li className="experience-detail"> Designed and implemented RESTful APIs for seamless communication between frontend and backend systems. </li>
                 <li className="experience-detail"> Optimized database performance and scalability using SQL Server, including the design of efficient stored procedures, views, functions. </li>
                 <li className="experience-detail"> Implemented cloud-based solutions on AWS, including EC2 for hosting and S3 for ensuring high availability, load balancing, storage.</li>
                 <li className="experience-detail"> Enhanced application security by integrating OAuth2 authentication and implementing role-based access control (RBAC) mechanisms. </li>
@@ -35,7 +35,7 @@ export const Experience = () => {
               <p className="experience-dates"> 2022  - 2024</p>
               <ul className="experience-details">
                 <li className="experience-detail"> Spearheaded the development of an Web Platforms for some of the Projects. </li>
-                <li className="experience-detail"> Utilized a robust tech stack including Angular, .NET Core, HTML, CSS, and JavaScript. </li>
+                <li className="experience-detail"> Utilized a robust tech stack including Angular, Restful APIs, HTML, CSS, and JavaScript. </li>
                 <li className="experience-detail"> Created an interactive and engaging online learning environment. </li>
                 <li className="experience-detail"> Focused on delivering user-friendly interfaces and intuitive design patterns.</li>
                 <li className="experience-detail"> Integrated lessons and assessments using MySQL databases and RESTful API services. </li>
@@ -53,7 +53,7 @@ export const Experience = () => {
               <p className="experience-company">ADP PRIVATE LIMITED</p>
               <p className="experience-dates"> 2021  -  2022</p>
               <ul className="experience-details">
-                <li className="experience-detail"> Developed web pages using ASP.NET framework, Angular,React,Redux, SQL Server and design/architectural pattern (Model-View-Controller (MVC)). </li>
+                <li className="experience-detail"> Developed web pages using RESTful APIs, Angular,React,Redux, SQL Server and design/architectural pattern (Model-View-Controller (MVC)). </li>
                 <li className="experience-detail"> Took a main role in developing the single page webpage using dotnet and Angular which increased the work efficiency by 25%. </li>
                 <li className="experience-detail"> Involved in the automation of the tasks using Python and PowerShell Scripts which saved total work time of 50 hours/month. </li>
                 <li className="experience-detail"> Collaborated with other team members to develop automation strategies and deployment processes.</li>
@@ -69,7 +69,7 @@ export const Experience = () => {
               <img className="experience-logo" src={companyLogo2} alt="Company Logo" />
               <h1 className="experience-title"> WEB DEVELOPER </h1>
               <h5 className="experience-company">MCR WEB SOLUTIONS</h5>
-              <p className="experience-dates">2019  -  2021</p>
+              <p className="experience-dates">2018  -  2021</p>
               <ul className="experience-details">
                 <li className="experience-detail"> Participated in all phases of the SDLC, from system analysis and design through development and test to deployment and support.</li>
                 <li className="experience-detail"> Reviewed and implemented the user suggestions to the Software and Marketing, thereby improving customer retention by 15%.</li>
